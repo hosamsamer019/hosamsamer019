@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/OX--DIGITAL-Enterprise%20Solution-8B0000?style=for-the-badge&logo=codeforces&logoColor=white" alt="OX-DIGITAL">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -30,14 +30,30 @@
 
 ### 💻 About Me
 * 🚀 Founder and Technical Director at **OX-DIGITAL**, specializing in building enterprise web platforms and high-performance digital solutions.
-* 🎓 Creator and lead architect of advanced educational platforms for schools, tutoring centers, and students.
+* 🎓 Creator and lead architect of advanced educational and smart management platforms.
 * 🛠️ Expert in Full-Stack Software Development, System Administration, Cloud Infrastructure, and UI/UX Architecture.
+
+---
+
+### 🚀 Featured Repositories & Projects
+* **[ox-digital-Education](https://github.com/hosamsamer019/ox-digital-Education):** Comprehensive enterprise educational platform built with TypeScript.
+* **[mathev-2](https://github.com/hosamsamer019/mathev-2):** Advanced educational management system and modules.
+* **[MIDAS (Backend & Frontend)](https://github.com/hosamsamer019/midas_backend):** Full-stack analytical platform combining Python and TypeScript architectures.
+* **[code-sculptor-ai](https://github.com/hosamsamer019/code-sculptor-ai):** AI-powered code shaping and development tool built with TypeScript.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,nextjs,python,postgres,prisma,docker,nginx,git,linux&theme=dark" alt="Tech Stack">
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hosamsamer019&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosamsamer019&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages">
 </p>
 
 ---

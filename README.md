@@ -30,16 +30,22 @@
 
 ### 💻 About Me
 * 🚀 Founder and Technical Director at **OX-DIGITAL**, specializing in building enterprise web platforms and high-performance digital solutions.
-* 🎓 Creator and lead architect of advanced educational and smart management platforms.
+* 🎓 Creator and lead architect of advanced educational, analytical, and smart management platforms.
 * 🛠️ Expert in Full-Stack Software Development, System Administration, Cloud Infrastructure, and UI/UX Architecture.
 
 ---
 
-### 🚀 Featured Repositories & Projects
-* **[ox-digital-Education](https://github.com/hosamsamer019/ox-digital-Education):** Comprehensive enterprise educational platform built with TypeScript.
-* **[mathev-2](https://github.com/hosamsamer019/mathev-2):** Advanced educational management system and modules.
-* **[MIDAS (Backend & Frontend)](https://github.com/hosamsamer019/midas_backend):** Full-stack analytical platform combining Python and TypeScript architectures.
-* **[code-sculptor-ai](https://github.com/hosamsamer019/code-sculptor-ai):** AI-powered code shaping and development tool built with TypeScript.
+### 📂 All Repositories & Projects Showcase
+
+| Project Name | Type / Tech | Description | Link |
+| :--- | :---: | :--- | :---: |
+| **ox-digital-Education** | TypeScript | Comprehensive enterprise educational platform for schools & centers. | [View Repo](https://github.com/hosamsamer019/ox-digital-Education) |
+| **mathev-2** | TypeScript | Advanced educational management modules and systems. | [View Repo](https://github.com/hosamsamer019/mathev-2) |
+| **midas_backend / frontend** | Python / TS | Full-stack analytical platform architectures. | [View Repo](https://github.com/hosamsamer019/midas_backend) |
+| **code-sculptor-ai** | TypeScript | AI-powered code shaping and development tool. | [View Repo](https://github.com/hosamsamer019/code-sculptor-ai) |
+| **hosamsamer019** | Config | Configuration files and source for GitHub profile README. | [View Repo](https://github.com/hosamsamer019/hosamsamer019) |
+| **hosamsamir.github.io** | HTML | Personal portfolio and web landing pages. | [View Repo](https://github.com/hosamsamer019/hosamsamir.github.io) |
+| **Hosam-Brofile / Profile** | Web | Legacy profile repositories and historical templates. | [View Repo](https://github.com/hosamsamer019/Hosam-profile) |
 
 ---
 
@@ -50,6 +56,14 @@
 
 ---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hosamsamer019&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosamsamer019&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
